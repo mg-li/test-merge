@@ -1,0 +1,3 @@
+function ccc () {
+    print("this is func ccc!");
+}
