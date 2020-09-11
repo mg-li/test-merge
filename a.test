@@ -1,0 +1,7 @@
+function aaa () {
+    print("this is func aaa!");
+}
+
+function bbb () {
+    print("this is func bbb!");
+}
