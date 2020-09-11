@@ -1,0 +1,4 @@
+function ccc () {
+    print("this is func ccc!");
+    print("add messege from C6!");
+}
