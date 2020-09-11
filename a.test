@@ -1,7 +1,9 @@
 function aaa () {
     print("this is func aaa!");
+    print("add messege from aaa!");
 }
 
 function bbb () {
     print("this is func bbb!");
+    print("add messege from C4!");
 }
