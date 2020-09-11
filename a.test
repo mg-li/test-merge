@@ -6,4 +6,5 @@ function aaa () {
 function bbb () {
     print("this is func bbb!");
     print("add messege from C4!");
+    print("add messege from C7!");
 }
